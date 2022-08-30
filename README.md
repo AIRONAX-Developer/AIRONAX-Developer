@@ -19,4 +19,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AIRONAX-Developer&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AIRONAX-Developer&icon=7&color=0)](https://aironax.com)
